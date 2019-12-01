@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="test_delbook.addTest-20191130144916" tests="1" time="0.012">
+	<testcase classname="test_delbook.addTest" name="test_del" time="0.012"/>
+	<system-out>
+<![CDATA[Book: {'Author': 'Author1', 'Title': 'Book1'}
+Book: {'Author': 'Author1', 'Title': 'Book1'}
+books: []
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

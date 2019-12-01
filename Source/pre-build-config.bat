@@ -1,3 +1,3 @@
-SET PATH=%PATH%;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin
+SET PATH=%PATH%;C:\Users\Shashwat\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin
 git pull
-gcloud auth activate-service-account jenkins@handle-books.iam.gserviceaccount.com --key-file=c:\Users\nvmur\Downloads\handle-books-2a419c24f2ac.json --project=handle-books
+gcloud auth activate-service-account robotic-sanctum-255216@appspot.gserviceaccount.com --key-file=C:\Users\Shashwat\AppData\Local\Google\robotic-sanctum-255216-7e74bf9da17f.json --project=robotic-sanctum-255216

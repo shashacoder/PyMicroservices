@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "robotic-sanctum-255216",
+  "private_key_id": "7e74bf9da17fac0de777649e908f7e01635b9567",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDC7pUZkNgAbImW\njOeaj2OyKjLnCsOaHWLYTUVFuPc0ckp5VWcSC4i5F751nOXq22a6mPWOGdbCQb5T\nLVpVlAv9L5GzBC7QbMMSWB7vF6G69n3Bno/NkKULmwxQ4CYrnbqrcxys+Eef30XO\noIKFFd3JsbLNXpnEKF/oui9e1uYpAp8Az6E07fcijMS25mmZdOB26oofhuCe2FH3\noAfiSHX4TUPOrEn0oRIQwG4w1CkpkKly1vA2vqq2mdEWoH7WSIOzzmtVSioWF5JZ\nC3Z0g3aId/V6OqmDf0Kn1/CzaNdPICU2FmH8yqSaPPMFCDrsgw80YFO0k4w19FU9\nk2fuDFKNAgMBAAECggEASng1E+BG9NqCMbbA4EY5Ux5V9fghw+XIFlRmy30fS7UC\nCJp81uL7J6MPiwUWvQN2moDHBrOOXQYavNINubXmYqJiqh5F+DAk0gRCRRslGTUD\n1A1MaL8Cno1sRhVr36vRXaCLavUq/8OfepHNayRwZ5ZwdY7XdZ3rDhDa+gNlSHLi\nMs/YMVa7AAU/vYg7jLmTReVtzk4OA5lsPWxkwCXcAdLTqk6CMC6XiCXUU/sUMa0z\nfWzRRiDbctuNCyiQwO8oPHxAz28WZNenVgJKcVB5LtTKzZmIt2z4tKN5N24IbasK\npRVChlUPrTuHMSOO0/HAfOw8e/MW9bBS50YGAWlULQKBgQDiU4qPaJ6FNsybJTK1\n2/oRBTeC5Mi86/zL6CHmKssVTflGr7GyoH2pEoCOkUGniZEHHVeWkB47bQD3Q+wd\nnRdjqq+/ZmFkS4WFL7kjukVHwOuUcof9UZEX6i7rTbp+/dHcPRPmoM2D0Xv3PTss\nQSzQtLQYHmo1WlW8QOd1NEmOjwKBgQDcfVCSjDi+CZBVOKoCEsOZ5uO7eeSXh4z8\n9PPjxNuOqPhJgncNqgooWq25gch4rkS4yqad5Gds2L7Goks6Z5p9m2boQ14iqhsn\noxVGrSqJIi6MlYDQHYuOlzaBCYrOB4IUvigFeIU4kHGC8kcUyfG4E2JQIvuS3rG+\nI1fGMR9bIwKBgQDTLRwWX4m5xr327Sh5471a8EExkwNys8b3A6vNtZQ0VsMHH5xw\njatyfF8Tp5lZF9UIjGpThDmRPU4vaWMA5rkSOAswTfkFuinlcfgPzBgksW+e3Zbh\n2J/Hbq1ExQwEvhR4qUzOXrAkFOzUbn+t9Uo5msKH1qlHCvkAZJcTFyyjJQKBgDBR\nngifhgfPXLvwUQFnT0o42QtKqRez8ue0XoY5q8vVp6OkXaa27sbtKEkQ8ffQaOr+\nLglH9opZ7WTmSAoiji6cka6wpL5//Ldw+8ajSEEJJp5UXQg+kUjMRnt8tdh0uMMG\n8QpR4RAGR3nk0kLyBnDKfq8FG5CSEO2UHTYnqbF1AoGAJAbt+cBJQ62sYylRUxtb\nhh4ON9eYCXZcQrYvIi6OJuLa3FpE9vlqlaH/7Kja0aeHbbbdbbhXPa+CrVyYd8WX\nlc1vuSGP7gbhZik0MU2kwy8NnYo0O5WnCkf/5WL3TX/aKbBgjta1EmhU8rRkcOoV\nGU8ZA5ukQkJSlnjSTOSvqKQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "robotic-sanctum-255216@appspot.gserviceaccount.com",
+  "client_id": "116685135115004374066",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/robotic-sanctum-255216%40appspot.gserviceaccount.com"
+}

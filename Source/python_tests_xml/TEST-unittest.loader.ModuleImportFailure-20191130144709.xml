@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<testsuite errors="2" failures="0" name="unittest.loader.ModuleImportFailure-20191130144709" tests="2" time="0.000">
+	<testcase classname="unittest.loader.ModuleImportFailure" name="test_addbook" time="0.000">
+		<error message="Failed to import test module: test_addbook
+Traceback (most recent call last):
+  File &quot;C:\Python27\lib\unittest\loader.py&quot;, line 254, in _find_tests
+    module = self._get_module_from_name(name)
+  File &quot;C:\Python27\lib\unittest\loader.py&quot;, line 232, in _get_module_from_name
+    __import__(name)
+  File &quot;C:\Users\Shashwat\AppData\Local\Google\Cloud SDK\PyMicroservices\Source\test_addbook.py&quot;, line 5, in &lt;module&gt;
+    from addhandler import AddHandler
+  File &quot;C:\Users\Shashwat\AppData\Local\Google\Cloud SDK\PyMicroservices\Source\addhandler.py&quot;, line 1, in &lt;module&gt;
+    import tornado.web
+ImportError: No module named tornado.web
+" type="ImportError">
+<![CDATA[Traceback (most recent call last):
+ImportError: Failed to import test module: test_addbook
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\loader.py", line 254, in _find_tests
+    module = self._get_module_from_name(name)
+  File "C:\Python27\lib\unittest\loader.py", line 232, in _get_module_from_name
+    __import__(name)
+  File "C:\Users\Shashwat\AppData\Local\Google\Cloud SDK\PyMicroservices\Source\test_addbook.py", line 5, in <module>
+    from addhandler import AddHandler
+  File "C:\Users\Shashwat\AppData\Local\Google\Cloud SDK\PyMicroservices\Source\addhandler.py", line 1, in <module>
+    import tornado.web
+ImportError: No module named tornado.web
+
+]]>		</error>
+	</testcase>
+	<testcase classname="unittest.loader.ModuleImportFailure" name="test_delbook" time="0.000">
+		<error message="Failed to import test module: test_delbook
+Traceback (most recent call last):
+  File &quot;C:\Python27\lib\unittest\loader.py&quot;, line 254, in _find_tests
+    module = self._get_module_from_name(name)
+  File &quot;C:\Python27\lib\unittest\loader.py&quot;, line 232, in _get_module_from_name
+    __import__(name)
+  File &quot;C:\Users\Shashwat\AppData\Local\Google\Cloud SDK\PyMicroservices\Source\test_delbook.py&quot;, line 5, in &lt;module&gt;
+    from addhandler import AddHandler
+  File &quot;C:\Users\Shashwat\AppData\Local\Google\Cloud SDK\PyMicroservices\Source\addhandler.py&quot;, line 1, in &lt;module&gt;
+    import tornado.web
+ImportError: No module named tornado.web
+" type="ImportError">
+<![CDATA[Traceback (most recent call last):
+ImportError: Failed to import test module: test_delbook
+Traceback (most recent call last):
+  File "C:\Python27\lib\unittest\loader.py", line 254, in _find_tests
+    module = self._get_module_from_name(name)
+  File "C:\Python27\lib\unittest\loader.py", line 232, in _get_module_from_name
+    __import__(name)
+  File "C:\Users\Shashwat\AppData\Local\Google\Cloud SDK\PyMicroservices\Source\test_delbook.py", line 5, in <module>
+    from addhandler import AddHandler
+  File "C:\Users\Shashwat\AppData\Local\Google\Cloud SDK\PyMicroservices\Source\addhandler.py", line 1, in <module>
+    import tornado.web
+ImportError: No module named tornado.web
+
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
